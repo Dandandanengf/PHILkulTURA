@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Virus!!  DO NOT OPEN!",
+    "name": "PHILkulTURA",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -63,7 +63,9 @@
     ],
     "uniqCompNum": 40,
     "versionPublish": "4.8.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
